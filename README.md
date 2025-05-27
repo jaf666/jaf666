@@ -1,5 +1,5 @@
 # Hello World!, I'm Juanma, a Spanish Developer 👋🏼:
-📍 currently working on my own projects and finishing my studies<br>👨🏼‍🎓 studying computer science at Santiago de Compostela (USC)<br>👨🏼‍💻 worked as QA for automotive projects<br> 🔗 [LinkedIn](https://linkedin.com/in/juan-manuel-a-206b301a3)
+📍 currently working on my own projects and finishing my studies<br>👨🏼‍🎓 studying computer science at Santiago de Compostela (USC)<br>👨🏼‍💻 worked as QA for automotive projects
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
